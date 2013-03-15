@@ -1,0 +1,4 @@
+This is another implementation of FaceDetector using native ICS+ 
+Camera.FaceDetectorListener().
+
+For now this only reports number of face detected and its score.
